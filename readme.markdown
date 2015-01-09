@@ -14,7 +14,8 @@ $ curl http://localhost:5000
 {}
 $ whereami phonehome raspberry-pi http://localhost:5000
 ok
-$ curl http://localhost:5000{
+$ curl http://localhost:5000
+{
   "raspberry-pi": {
     "id": "raspberry-pi",
     "time": "2015-01-08.21:14:16",
