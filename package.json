@@ -1,6 +1,6 @@
 {
   "name": "whereami",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "keep track of your roaming headless linux devices in the wild",
   "main": "index.js",
   "bin": {
